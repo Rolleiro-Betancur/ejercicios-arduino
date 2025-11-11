@@ -12,6 +12,9 @@ Laboratorio 4
 <hr>
 Laboratorio 7
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/02b6fdca-6c5d-42b2-9090-d1ce85ce1632" />
+<hr>
+Proyecto Final 
+
 
 
 
